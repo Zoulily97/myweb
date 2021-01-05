@@ -85,6 +85,7 @@
     <Content Include="index2.aspx" />
     <Content Include="login.aspx" />
     <Content Include="reg.aspx" />
+    <Content Include="SQL\xiaobaisgopping.sql" />
     <Content Include="user\exit.aspx" />
     <Content Include="user\index.aspx" />
     <Content Include="user\order.aspx" />
